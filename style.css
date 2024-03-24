@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+body{
+    background-color: rgb(43, 40, 40);
+
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #ffffff;
+    
+}
+.navbar h3{
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+ .navbar img{
+    overflow: hidden;
+    border-radius: 50%;
+    display:flex;
+    float: left;
+    margin-right: 80px;
+      
+}
+.navbar p{
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display:flex;
+    text-align:justify;
+    line-height: 40px;
+    margin-left: 20px;
+    color: #ffffff;
+    
+}
+
+.topo h1{
+    color: #ffffff;
+    text-align: left;
+    clear: both;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.fim{
+    font-size: 18px;
+    color: #ffffff;
+}
+
