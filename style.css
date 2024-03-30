@@ -1,8 +1,10 @@
 @charset "utf-8";
+.navbar{
+    background-color: #54545441 
 
+}
 body{
-    background-color: rgb(43, 40, 40);
-
+    background-color: #7b8a84
 }
 
 h3{
@@ -49,4 +51,5 @@ h3{
     font-size: 18px;
     color: #ffffff;
 }
+
 
